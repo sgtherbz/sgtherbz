@@ -22,7 +22,7 @@ Releases
 - Colaborating with other developers has always been an exceptional way of learning so I'm open for project ideas to go back and forth 
 - The server i currently develop for uses a customised framework based off the original Table-Core aka QBUS framework so a lot of similarities with the latest qb-core framework and scripts can easily be adapted before release
 
-I will be uploading more work throughout the year so keep an eye on my repositories
+I will be uploading more work throughout the year check out my latest releases below
 
 
 
